@@ -13,6 +13,8 @@ batman = media.Movie("The Dark Knight",
                      "https://upload.wikimedia.org/wikipedia/en/8/8a/Dark_Knight.jpg",
                      "https://www.youtube.com/watch?v=_PZpmTj1Q8Q")
 
-
 movies = [terminator_2, inception, batman]
+
+# This function call uses a list of movie instances called "movies" as input to generate an HTML file.
+# The file is then opened in the default web browser.
 fresh_tomatoes.open_movies_page(movies)
