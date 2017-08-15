@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [1.2.1] - 2017-08-15
+## Fixed
+- Cleaned up directory of unnecessary `.pyc` files.
+
 ## [1.2.0] - 2017-08-15
 ## Added
 - Added minor additions to docstrings for select functions.
